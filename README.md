@@ -1,6 +1,12 @@
 # GameOfGo
 Project for Introduction to Programming (course).
 
+## Execution
+``  g++ main.cpp -o game.exe ``
+
+## Loading files
+Put the saved state of the game in the same folder as the exe file.
+
 ## Game
 ![image](https://github.com/user-attachments/assets/5a303a73-bfae-47dd-95d2-c64bccb1f2ee)
 
