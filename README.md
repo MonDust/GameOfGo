@@ -11,6 +11,7 @@ This project implements the game of Go with basic functionalities. The current i
 Additional requirements are not implemented.
 
 ## Execution
+### Windows
 Compile the project:
 
 `` g++ main.cpp -o game.exe ``
@@ -18,6 +19,15 @@ Compile the project:
 Run the game:
 
 `` ./game.exe ``
+
+### Linux/macOS
+Compile the project:
+
+`` g++ main.cpp -o game ``
+
+Run the game:
+
+`` ./game ``
 
 ## Loading files
 Put the saved state of the game in the same folder as the exe file.
