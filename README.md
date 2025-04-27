@@ -12,8 +12,11 @@ Additional requirements are not implemented.
 
 ## Execution
 Compile the project:
+
 `` g++ main.cpp -o game.exe ``
+
 Run the game:
+
 `` ./game.exe ``
 
 ## Loading files
