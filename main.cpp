@@ -143,7 +143,7 @@ int main() {
 	Conio2_Init();
 #endif
 
-	settitle("O. Paszkiewicz 187583");
+	settitle("O. Paszkiewicz");
 
 	_setcursortype(_NOCURSOR);
 	do {
